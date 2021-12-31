@@ -1,6 +1,10 @@
-# Minimal Dockerfiles for Binder
+# Docker Template
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/minimal-dockerfile/master)
+This template is based on the `minimal-dockerfile` template from the `binder-examples` organization on GitHub: https://github.com/binder-examples/minimal-dockerfile
+
+Below is the original `README.md` to learn how to configure the repository to work with a `Dockerfile`.
+
+## Minimal Dockerfiles for Binder
 
 [Binder](https://mybinder.org) needs only one thing for images to work:
 
